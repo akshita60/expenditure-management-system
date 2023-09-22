@@ -21,8 +21,9 @@ Welcome to the Expense Management System project repository! This system is desi
 - Frontend (Web): HTML, CSS, JavaScript
 
 ## Screenshots
- <img width="822" alt="Screenshot 2023-04-13 at 12 22 23 AM" src="https://github.com/akshita60/expense-management-system/assets/12231609<img width="742" alt="Screenshot 2023-04-13 at 12 26 55 AM" src="https://github.com/akshita60/expense-management-system/assets/122316097/2cb0ce73-1acb-4339-b143-357782e76a67">
-7/a1e6633b-9e9e-433b-ac6c-ebc70449b73b">
+ <img width="822" alt="ss0" src="https://github.com/akshita60/expense-management-system/assets/122316097/6dbebb2b-9309-4036-957a-17a98a5325ac">
+ <img width="742" alt="ss1" src="https://github.com/akshita60/expense-management-system/assets/122316097/217c8112-cab3-451d-88f0-33b7970c8aaa">
+
 
 
 ## Contributing
